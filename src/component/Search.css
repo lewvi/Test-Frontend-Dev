@@ -1,3 +1,26 @@
+.Group3691 {
+    height: 40px;
+    width: 185px;
+    left: 789px;
+    top: 80px;
+    border-radius: 0px;
+}
+
+.inputBox {
+    position: absolute;
+    width: 185px;
+    height: 40px;
+    left: 789px;
+    top: 80px;
+
+    /* white-1 */
+
+    background: #FFFFFF;
+    border: 1px solid #134B8A;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
 .Group3672 {
     position: absolute;
     width: 400px;
@@ -6,12 +29,27 @@
     top: 80px;
 }
 
-.SearchName {
+.inputBox2 {
     position: absolute;
-    left: 70.76%;
-    right: 20.35%;
-    top: 4.43%;
-    bottom: 94.88%;
+    width: 400px;
+    height: 40px;
+    left: 1002px;
+    top: 80px;
+
+    /* white-1 */
+
+    background: #FFFFFF;
+    border: 1px solid #134B8A;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.RestaurentText {
+    position: absolute;
+    left: 56.18%;
+    right: 37.57%;
+    top: 4.38%;
+    bottom: 94.93%;
 
     font-family: 'Kanit';
     font-style: normal;
@@ -28,55 +66,24 @@
 
 }
 
-.Group3691 {
+.SearchNameText {
     position: absolute;
-    width: 185px;
-    height: 40px;
-    left: 789px;
-    top: 80px;
-}
-
-.Vector {
-    position: absolute;
-    left: 65.76%;
-    right: 33.56%;
-    top: 4.82%;
-    bottom: 95%;
-
-
-    background: #9E9E9E;
-}
-
-.Restaurent {
-    position: absolute;
-    left: 56.18%;
-    right: 37.57%;
-    top: 4.38%;
-    bottom: 94.93%;
+    left:60%;
+    right: 20.35%;
+    top: 4.43%;
+    bottom: 94.88%;
 
     font-family: 'Kanit';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 143%;
+    /* or 20px */
 
     letter-spacing: 0.15px;
 
+    /* text / secondary */
 
     color: rgba(0, 0, 0, 0.54);
-
-}
-
-.Rectangle569 {
-    position: absolute;
-    width: 185px;
-    height: 40px;
-    left: 789px;
-    top: 80px;
-
-    background: #FFFFFF;
-    border: 1px solid rgba(19, 75, 138, 1);
-    box-sizing: border-box;
-    border-radius: 50px;
 
 }
